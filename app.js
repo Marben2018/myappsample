@@ -1,1 +1,1 @@
-consoke.log("Hello");
+console.log("Hello");
